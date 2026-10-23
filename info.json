@@ -1,0 +1,9 @@
+{
+  "name": "ups-reclaimer",
+  "version": "0.1.0",
+  "title": "UPS Reclaimer",
+  "author": "RedRafe",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1"],
+  "description": "Reclaim the UPS a finished subfactory costs: swap it for zero-cost look-alikes and a 1 Hz model of its inputs and outputs. Restore it any time."
+}
